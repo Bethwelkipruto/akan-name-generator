@@ -1,0 +1,80 @@
+body{
+    background: linear-gradient(to top, #dbe9f4, black);
+    font-family: 'Segoe UI','Segoe UI', Tahoma, Geneva, Verdana, 
+    sans-serif;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+.container{
+    background-color:floralwhite;
+    padding:2rem;
+    border-radius: 10px;
+    max-width: 400px;
+    width: 90%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+h1{
+    color: goldenrod;
+    margin-bottom: 0.2rem;
+}
+p{
+    font-size: 0.9rem;
+    color: rgb(121, 169, 182);
+    margin-bottom: 1.5rem;
+}
+form{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+label{
+    display: block;
+    margin: 10px 0 5px;
+    font-weight: bold;
+}
+input[type="number"]{
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 1px solid #ccc
+}
+.gender-options{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 0;
+}
+button{
+    width: 100%;
+    padding: 0.8rem;
+    margin-top: 1rem;
+    background-color: whitesmoke;
+    color: green;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    course: pointer;
+}
+button:hover {
+    background-color: black;
+}
+#result {
+margin-top: 1.5rem;
+color: orchid;
+font-weight: bold;
+font-size: 1.1rem;
+}
+.gender-group {
+display:flex;
+gap: 1rem;
+margin-top: 0.5rem;
+margin-bottom: 1rem;
+}
+.gender-group lebel {
+    font-weight: normal;
+    display: flex;
+    align-items: center;
+}
