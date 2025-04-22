@@ -36,5 +36,3 @@ In Akan tradition, names are based on the **day of the week** a person is born. 
 3. Select your gender.
 4. Click **Generate Akan Name**.
 5. View your Akan name!
-
- Project Structure
