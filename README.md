@@ -23,7 +23,7 @@ In Akan tradition, names are based on the **day of the week** a person is born. 
 | Friday    | Kofi      | Afua        |
 | Saturday  | Kwame     | Ama         |
 
- Tech Stack
+ Tech Stack.
 
 - **HTML** – Structure of the web page
 - **CSS** – Styling and layout (coming soon)
