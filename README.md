@@ -29,7 +29,7 @@ In Akan tradition, names are based on the **day of the week** a person is born. 
 - **CSS** – Styling and layout (coming soon)
 - **JavaScript** – Logic for date calculation and name selection (coming soon)
 
- How to Use
+ How to Use.
 
 1. Open `index.html` in your web browser.
 2. Enter your date of birth.
