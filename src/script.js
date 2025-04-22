@@ -13,7 +13,7 @@ form.addEventListener("submit", function (e) {
     const year = parseInt(document.getElementById("year").value);
     const gender = document.querySelector('input[name="gender"]:checked').value;
 
-    // Create date and validate
+    // Create date and 
     const birthDate = new Date(year, month, day);
 
     if (
