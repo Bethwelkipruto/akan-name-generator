@@ -9,7 +9,7 @@ Features
 - Clean and simple user interface
 - Works on any modern web browser
 
-How It Works
+How It Works,
 
 In Akan tradition, names are based on the **day of the week** a person is born. Each day has a male and female name. For example:
 
