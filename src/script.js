@@ -26,7 +26,7 @@ form.addEventListener("submit", function (e) {
         return;
     }
 
-    const dayIndex = birthDate.getDay(); // 0 = Sunday, 
+    const dayIndex = birthDate.getDay(); // 0 = 
     const akanName = gender === "male" ? maleNames[dayIndex] : femaleNames[dayIndex];
 
     result.innerHTML = `You were born on a <strong>${days[dayIndex]}</strong>. Your Akan name is <strong>${akanName}</strong>.`;
